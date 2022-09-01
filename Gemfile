@@ -16,6 +16,7 @@ gem "devise"
 gem "devise-bootstrap-views"
 gem "twitter-bootstrap-rails"
 gem 'jquery-rails'
+gem 'sass-rails'
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
