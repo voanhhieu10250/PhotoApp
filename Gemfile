@@ -19,6 +19,10 @@ gem 'jquery-rails'
 gem 'sass-rails'
 gem 'stripe'
 
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog'
+
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
